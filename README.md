@@ -18,7 +18,7 @@ CodeFlow é uma plataforma colaborativa de perguntas e respostas inspirada no St
 - **Busca:** Os usuários podem buscar perguntas por palavras-chave ou tags.
 - **Autenticação e Autorização:** Utilização de JWT para autenticação e autorização, garantindo que somente usuários autorizados possam realizar certas ações.
 
-- ## Capturas de Tela
+## Capturas de Tela
 
 <p align="center">
   <img src="https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow1.jpg" width="500" />
@@ -29,8 +29,6 @@ CodeFlow é uma plataforma colaborativa de perguntas e respostas inspirada no St
   <img src="https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow3.jpg" width="500" />
   <img src="https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow4.jpg" width="500" /> 
 </p>
-
-
 
 ## Pré-requisitos
 
@@ -45,4 +43,4 @@ Para configurar o projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/CodeFlow.git
+   git clone https://github.com/MarcosQuintino0/codeflow.git
