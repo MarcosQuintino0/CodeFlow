@@ -24,7 +24,6 @@ Antes de iniciar, certifique-se de ter instalado todas as seguintes ferramentas:
 - JDK 11 ou superior
 - Node.js e npm
 - Angular CLI
-- (Incluir outras dependências necessárias)
 
 ## Configuração do Projeto
 
