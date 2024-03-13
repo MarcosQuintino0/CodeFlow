@@ -18,6 +18,12 @@ CodeFlow é uma plataforma colaborativa de perguntas e respostas inspirada no St
 - **Busca:** Os usuários podem buscar perguntas por palavras-chave ou tags.
 - **Autenticação e Autorização:** Utilização de JWT para autenticação e autorização, garantindo que somente usuários autorizados possam realizar certas ações.
 
+- ## Capturas de Tela
+
+![NPM](https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow1.jpg)
+![NPM](https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow2.jpg)
+
+
 ## Pré-requisitos
 
 Antes de iniciar, certifique-se de ter instalado todas as seguintes ferramentas:
