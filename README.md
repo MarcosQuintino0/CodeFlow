@@ -20,8 +20,16 @@ CodeFlow é uma plataforma colaborativa de perguntas e respostas inspirada no St
 
 - ## Capturas de Tela
 
-![NPM](https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow1.jpg)
-![NPM](https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow2.jpg)
+<p align="center">
+  <img src="https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow1.jpg" width="500" />
+  <img src="https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow2.jpg" width="500" /> 
+</p>
+
+<p align="center">
+  <img src="https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow3.jpg" width="500" />
+  <img src="https://github.com/MarcosQuintino0/Assets/blob/main/assetFlow4.jpg" width="500" /> 
+</p>
+
 
 
 ## Pré-requisitos
