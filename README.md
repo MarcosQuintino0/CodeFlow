@@ -8,7 +8,7 @@ CodeFlow é uma plataforma colaborativa de perguntas e respostas inspirada no St
 - **Backend:** Java, Spring Framework, Hibernate
 - **Autenticação:** JWT (JSON Web Token)
 - **Testes:** Postman para testar as APIs
-- **Banco de Dados:** (Inserir o banco de dados utilizado, se aplicável)
+- **Banco de Dados:** Postgresql
 
 ## Funcionalidades
 
